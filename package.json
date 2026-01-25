@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bitcoinjs-lib": "^3.3.0",
-    "bitcore-lib": "0.15.0",
+    "bitcore-lib": "8.22.2",
     "body-parser": "^1.18.2",
     "chai": "^4.1.2",
     "express": "^4.16.2",
@@ -25,7 +25,7 @@
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
     "rewire": "^2.5.2",
-    "sinon": "^4.1.2",
+    "sinon": "^21.0.1",
     "standard": "^8.6.0",
     "supertest": "^3.0.0",
     "winston": "^3.0.0"
